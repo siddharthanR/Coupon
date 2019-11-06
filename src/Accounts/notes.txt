@@ -1,0 +1,5 @@
+get:
+returns the instance of any model. donot use the queryset it returns only the 
+queryset even if we use filter method
+
+so google how to retrieve an instance from models

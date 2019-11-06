@@ -1,0 +1,8 @@
+#create an instance of register
+        new_user = Register.models.create(name=name,
+            age=age,
+            email=email,
+            city=city,
+            referalcode=referalcode,
+            referalany=referalany
+            )
